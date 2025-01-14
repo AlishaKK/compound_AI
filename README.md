@@ -50,6 +50,9 @@ Now, let's talk about how it works for two different kinds of robots:
 
 So, **prompt engineering** is just a fancy way of saying, "Tell your robot friend exactly what you want, so it can help you best!"
 
+![image](https://github.com/user-attachments/assets/3c895d31-5c86-46e1-a8ff-19842dfb3498)
+
+
 
 
 
